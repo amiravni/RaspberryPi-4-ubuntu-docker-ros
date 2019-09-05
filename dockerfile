@@ -24,3 +24,8 @@ RUN catkin_make
 #####
 apt-get install gcc-8 g++-8
 update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-8 60 --slave /usr/bin/g++ g++ /usr/bin/g++-8
+
+https://medium.com/@zwinny/docker-using-webcam-9fafb26cf1e6
+https://andrei.gherzan.ro/linux/raspbian-rpi4-64/
+https://askubuntu.com/questions/1125808/how-to-upgrade-cmake-in-arm-based-ubuntu
+https://cmake.org/files/v3.13/
