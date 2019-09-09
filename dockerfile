@@ -27,6 +27,11 @@ RUN python3 sample_retrieve_data.py
 RUN pip3 install numpy #matplotlib didn't compile :(
 
 
+### python wrapper
+https://github.com/amiravni/libroyale-python-wrapper
+need to set path after compiling and copy SO
+
+
    
 #####
 #apt-get install gcc-8 g++-8
